@@ -6,8 +6,7 @@ This repository contains the full pipeline, code, and experiments for a thesis p
 
 The proposed model is benchmarked head-to-head against Logistic Regression, Random Forest, and a graph-free BiLSTM ablation, under an identical, leakage-free 70/15/15 split, with explainability provided via permutation importance and GAT attention heatmaps.
 
-> 📄 Full write-up: [`paper/An_Empirical_Study_on_Dhaka_Traffic_Video_Paper.pdf`](dhaka-crash-risk-gat-bilstm
-/An_Empirical_Study_on_Dhaka_Traffic_Video_Paper.pdf)
+> 📄 Full write-up: [`An_Empirical_Study_on_Dhaka_Traffic_Video_Paper.pdf`](An_Empirical_Study_on_Dhaka_Traffic_Video_Paper.pdf)
 
 ---
 
