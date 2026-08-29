@@ -250,5 +250,5 @@ Key works this project builds on:
 - Minderhoud & Bovy, *Extended Time-to-Collision Measures for Road Traffic Safety Assessment*, Accident Analysis & Prevention, 2001.
 - Nippani et al., *Graph Neural Networks for Road Safety Modeling*, NeurIPS Datasets and Benchmarks Track, 2023.
 
-Full reference list in the [paper](paper/An_Empirical_Study_on_Dhaka_Traffic_Video_Paper.pdf).
+Full reference list in the [paper](An_Empirical_Study_on_Dhaka_Traffic_Video_Paper.pdf).
 
